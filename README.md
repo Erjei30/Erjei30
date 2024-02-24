@@ -1,5 +1,5 @@
 # Hallo, my name Rajjah
 
-> [!WARNING]
+> [!important]
 > welcome to my github 🤞🤞
 
